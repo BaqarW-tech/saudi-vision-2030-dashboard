@@ -118,8 +118,7 @@ streamlit run vision2030_app.py
 
 ## 👤 About
 
-**Author:** Mor Wagan
-**Education:** MA Economics
+**Author:** Muhammad Baqar Wagan
 **Focus:** Economic analysis, policy evaluation, and data-driven research targeting finance and public sector roles aligned with Saudi Vision 2030 — including institutions such as the Islamic Development Bank, SAMA, and UN agencies operating in the MENA region.
 
 This project demonstrates applied skills in Python data analytics, interactive dashboard development, use of international economic databases, methodology transparency, and policy communication.
